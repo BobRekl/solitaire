@@ -1,7 +1,7 @@
 A solitaire game written in JAVA
 
 To run from https://github.com/BobRekl 
-1) Open solitaire by clicking on it.
+1) Open "solitaire" by clicking on it.
 2) Press "Clone or Download".  In the popup menue that opens press "Download zip".
 3) In your computer's "Downloads" folder extract the files from "solitaire-master.zip".
 4) Open "solitair-master" and copy the enclosed "solitaire" folder. 
@@ -9,6 +9,6 @@ To run from https://github.com/BobRekl
 6) To play solitaire double click on the "Solitaire.jar" file in the "solitaire" folder 
 or make a shortcut to it and click on it.
 7) You can change the icon on the shortcut to the icon in the "icon.ico" file by right clicking 
-on it opening "Properties" and clicking on "Change Icon".
+on it opening "Properties" and clicking on "Change Icon".  Navigate to the "icon.ico" file and select it.
 
 Source code is available in solitaireSrc in the form of a "NetBeans" project.
