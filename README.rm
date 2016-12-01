@@ -8,7 +8,7 @@ To run from https://github.com/BobRekl
 5) Paste "solitaire" somewhere convenient in your computer's file system.
 6) To play solitaire double click on the "Solitaire.jar" file in the "solitaire" folder 
 or make a shortcut to it and click on it.
-7) You can change the icon on the shortcut to the icon in the "icon.ico" file by right clicking 
-on it opening "Properties" and clicking on "Change Icon".  Navigate to the "icon.ico" file and select it.
+7) In Windows you can change the icon on the shortcut. Use the icon in the "icon.ico" file.  Right click 
+on your shortcut and open "Properties". Click on "Change Icon".  Navigate to the "icon.ico" file and select it.
 
 Source code is available in solitaireSrc in the form of a "NetBeans" project.
