@@ -1,9 +1,9 @@
 Solitaire is a solitaire game
 
-You may have to adjust your security settings to download this version of solitaire.  Solitaire is written in JAVA 
-and requires your computer to have JAVA installed before it can run.  Windows based computers come with JAVA 
-installed.  Mac computers may not have JAVA installed. You can install JAVA from the https://java.com/en/download/ 
-website. 
+You may have to adjust your security settings to download this solitaire game.  Solitaire is written 
+in JAVA and requires your computer to have JAVA installed before it can run.  Windows based computers 
+come with JAVA installed.  Mac computers may not have JAVA installed. You can install JAVA from the 
+https://java.com/en/download/ website. 
 
 To download solitaire from https://github.com/BobRekl 
 1) Open "solitaire" by clicking on it.
@@ -12,8 +12,10 @@ To download solitaire from https://github.com/BobRekl
 4) Open "solitaire-master" and copy the enclosed "solitaire" folder. 
 5) Paste "solitaire" somewhere convenient in your computer's file system.
 6) To play solitaire double click on the "Solitaire.jar" file in the "solitaire" folder 
-or make a shortcut to it and click on it.
-7) In Windows you can change the icon on the shortcut. Use the icon in the "icon.ico" file.  Right click on your 
-shortcut and open "Properties". Click on "Change Icon".  Navigate to the "icon.ico" file and select it.
+or make a shortcut to it and click on that.
+7) In Windows you can change the icon on the shortcut. Use the icon in the "icon.ico" file.  Right 
+click on your shortcut and open "Properties". Click on "Change Icon".  Navigate to the "icon.ico" file 
+and select it.
 
-Source code is available in solitaireSrc in the form of a "NetBeans" project.
+Source code is available on https://github.com/BobRekl in solitaireSrc in the form of a "NetBeans" 
+project.
