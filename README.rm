@@ -1,6 +1,10 @@
-A solitaire game written in JAVA
+Solitaire is a solitaire game
 
-To run from https://github.com/BobRekl 
+You may have to adjust your security settings to download this version of solitaire.  Solitaire is written in JAVA 
+and requires your computer to have JAVA installed before it can run.  Windows based computers come with JAVA installed.  
+Mac computers may not have JAVA installed. You can install JAVA from the https://java.com/en/download/ website. 
+
+To download solitaire from https://github.com/BobRekl 
 1) Open "solitaire" by clicking on it.
 2) Press "Clone or Download".  In the popup menue that opens press "Download zip".
 3) In your computer's "Downloads" folder extract the files from "solitaire-master.zip".
